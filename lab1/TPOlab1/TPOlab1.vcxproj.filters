@@ -50,9 +50,6 @@
     <ClInclude Include="InsertionSorter.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="MergeSorter.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
     <ClInclude Include="PyramidSorter.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
