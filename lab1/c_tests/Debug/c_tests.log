@@ -1,0 +1,5 @@
+﻿  ft_split.c
+C:\Users\Ivan\Downloads\ft_split.c(64,23): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Ivan\Downloads\ft_split.c(71,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ivan\Downloads\ft_split.c(105,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  c_tests.vcxproj -> C:\Users\Ivan\source\repos\TPOlab1\Debug\c_tests.exe

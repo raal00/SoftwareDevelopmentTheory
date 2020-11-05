@@ -30,9 +30,6 @@
     <ClCompile Include="InsertionSorter.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="MergeSorter.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="PyramidSorter.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
@@ -48,9 +45,6 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="InsertionSorter.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="MergeSorter.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="PyramidSorter.h">

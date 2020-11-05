@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BubbleSorter&lt;T&gt;">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Sorter&lt;T&gt;" ManuallyRouted="true">
+      <Path>
+        <Point X="5.5" Y="2.44" />
+        <Point X="5.5" Y="3.856" />
+        <Point X="3.5" Y="3.856" />
+        <Point X="3.5" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>BubbleSorter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InsertionSorter&lt;T&gt;">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>InsertionSorter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PyramidSorter&lt;T&gt;">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PyramidSorter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionSorter&lt;T&gt;">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SelectionSorter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sorter&lt;T&gt;">
+    <Position X="4.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAQAAAgAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Sorter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
